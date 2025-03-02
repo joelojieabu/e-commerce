@@ -1,0 +1,18 @@
+.cart-icon {
+  margin-left: auto;
+  padding-right: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.cart-icon a {
+  text-decoration: none;
+  color: #212529;
+  display: flex;
+  align-items: center;
+}
+
+.cart-icon i {
+  font-size: 1.2rem;
+  margin-right: 0.5rem;
+}
